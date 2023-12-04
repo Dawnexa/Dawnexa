@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [_Dawnexa_]!
+# 👋 Hello, I'm [__Dawnexa__]!
 
 Physics student, Python enthusiast, C++ explorer, and GitHub voyager. Welcome to my coding odyssey where science meets technology!
 
