@@ -14,7 +14,10 @@
   </a>
 </div>
 
-<img align="center" src="https://komarev.com/ghpvc/?username=Dawnexa&style=flat-square&color=blue" alt=""/>
+<div id="profile visits" align="center">
+    <img align="center" src="https://komarev.com/ghpvc/?username=Dawnexa&style=flat-square&color=blue" alt=""/>
+</div>
+
 
 
 # 👋 Hello, I'm <u>Dawnexa</u>!
