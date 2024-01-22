@@ -1,5 +1,9 @@
 # 👋 Hello, I'm <u>Dawnexa</u>!
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTl2ZHRoMGw0NXYwNGN0M3pvNzY0ZHc5NW5rdjBhZG9tNm5ubGRrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" width="100"/>
+</div>
+
 Physics student, Python enthusiast, C++ explorer, and GitHub voyager. Welcome to my coding odyssey where science meets technology!
 
 ## 🌌 About Me
