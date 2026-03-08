@@ -31,6 +31,3 @@ When I'm not delving into the mysteries of the cosmos or writing code, you'll fi
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dawnexa&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dawnexa&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dawnexa&theme=dracula)
-
-
-Happy coding and exploring the mysteries of the universe! 🚀🌌
